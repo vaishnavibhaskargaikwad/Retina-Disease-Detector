@@ -47,6 +47,9 @@ Training: Supervised learning with labeled dataset
 Evaluation Metrics: Accuracy, Loss
 📸 Screenshots
 User interface(Homepage)
+<img width="1914" height="859" alt="image" src="https://github.com/user-attachments/assets/671c7e88-c2f0-4c8c-b6af-a518f120ddd4" />
+
+
 🔮 Future Enhancements
 Add more disease categories
 Improve model accuracy with larger datasets
